@@ -40,7 +40,7 @@ deb-src http://deb.debian.org/debian/ bullseye-updates main contrib non-free
 
 
 Добавить хост в Zabbix по SNMP
-Добавить шаблон General template snmp 
+Добавить шаблон Generic by SNMP 
 Проверить в LAtest data собранные данные по SNMP
 
 В место route напишите ip mikrotik
